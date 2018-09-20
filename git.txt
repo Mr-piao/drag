@@ -1,0 +1,4 @@
+1---git status 查看工作区的状态
+2---git add drag.html  将文件添加到缓冲区（暂存区）
+3---git commit 会弹出一个框，让你添加注释
+4---git add .把修改过的文件全部提交到缓冲区
